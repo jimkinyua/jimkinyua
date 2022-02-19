@@ -19,6 +19,8 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/james-kinyua-98a324151#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+- 📫 How to reach me **jimkinyua25@gmail.com**
+
 ### Languages and Tools:
 
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />]
@@ -35,12 +37,12 @@
 
 
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jimkinyua&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimkinyua&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
 
-</details>
+
 
 [twitter]: https://twitter.com/_jimkinyua
 [linkedin]: https://linkedin.com/in/james-kinyua-98a324151
