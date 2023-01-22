@@ -15,9 +15,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/_jimkinyua#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/_jimkinyua#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/james-kinyua-98a324151#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/james-kinyua-98a324151#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 - 📫 How to reach me **jimkinyua25@gmail.com**
 
