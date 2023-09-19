@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning everything ReactJs 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about ReactJS 
 - ⚡ Fun fact: I love to sing in the choir and play the keyboard
 
 ### Connect with me:
