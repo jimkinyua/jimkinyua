@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="James Kinyua, Lead Full Stack Developer, Nairobi, Kenya">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3f8f7"/><stop offset="1" stop-color="#dfeeea"/></linearGradient>
+    <pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#c4dad5"/></pattern>
+  </defs>
+  <rect width="1000" height="240" rx="14" fill="url(#g)"/>
+  <rect x="640" width="360" height="240" rx="14" fill="url(#d)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="52" y="94" font-size="50" font-weight="700" fill="#12302f">James Kinyua</text>
+    <text x="52" y="134" font-size="23" font-weight="600" fill="#0f766e">Lead Full Stack Developer</text>
+    <text x="52" y="172" font-size="18" fill="#4a5f5c">Integrations, data and real-time systems for regulated industries</text>
+    <text x="52" y="204" font-size="15" fill="#4a5f5c">Nairobi, Kenya</text>
+  </g>
+  <g fill="none" stroke="#0f766e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <polyline points="716,168 762,142 806,152 852,104 896,116 944,66"/>
+  </g>
+  <g fill="#0f766e"><circle cx="716" cy="168" r="4.5"/><circle cx="762" cy="142" r="4.5"/><circle cx="806" cy="152" r="4.5"/><circle cx="852" cy="104" r="4.5"/><circle cx="896" cy="116" r="4.5"/><circle cx="944" cy="66" r="4.5"/></g>
+</svg>
