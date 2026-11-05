@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="James Kinyua, Lead Full Stack Developer, Nairobi, Kenya">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="James Kinyua, Data and AI Engineering, Nairobi, Kenya">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1b1e"/><stop offset="1" stop-color="#12302f"/></linearGradient>
     <pattern id="d" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#21403e"/></pattern>
@@ -7,12 +7,12 @@
   <rect x="640" width="360" height="240" rx="14" fill="url(#d)"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
     <text x="52" y="94" font-size="50" font-weight="700" fill="#f2f7f6">James Kinyua</text>
-    <text x="52" y="134" font-size="23" font-weight="600" fill="#4fd1b5">Lead Full Stack Developer</text>
-    <text x="52" y="172" font-size="18" fill="#a9bdba">Integrations, data and real-time systems for regulated industries</text>
+    <text x="52" y="134" font-size="23" font-weight="600" fill="#4fd1b5">Data and AI Engineering</text>
+    <text x="52" y="172" font-size="18" fill="#a9bdba">Data pipelines, streaming and LLM apps, built on 7+ years of production systems</text>
     <text x="52" y="204" font-size="15" fill="#a9bdba">Nairobi, Kenya</text>
   </g>
   <g fill="none" stroke="#4fd1b5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
-    <polyline points="716,168 762,142 806,152 852,104 896,116 944,66"/>
+    <polyline points="800,132 830,116 858,122 888,90 916,98 948,62"/>
   </g>
-  <g fill="#4fd1b5"><circle cx="716" cy="168" r="4.5"/><circle cx="762" cy="142" r="4.5"/><circle cx="806" cy="152" r="4.5"/><circle cx="852" cy="104" r="4.5"/><circle cx="896" cy="116" r="4.5"/><circle cx="944" cy="66" r="4.5"/></g>
+  <g fill="#4fd1b5"><circle cx="800" cy="132" r="4.5"/><circle cx="830" cy="116" r="4.5"/><circle cx="858" cy="122" r="4.5"/><circle cx="888" cy="90" r="4.5"/><circle cx="916" cy="98" r="4.5"/><circle cx="948" cy="62" r="4.5"/></g>
 </svg>
